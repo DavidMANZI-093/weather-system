@@ -4,10 +4,18 @@
 them to a simulated cloud dashboard.
 - **Key Components**: DHT11, LDR, Arduino, Cloud simulation logic
 
-#### Team Members:
+#### Team Members
+
 | N | Reg No. | Name |
 | --- | --- | --- |
 | 1 | 23805/2024 | MANZI David Mercy |
+| 2 | 28153/2024 | Bushunju Thomas |
+| 4 | 27876/2024 | Habiyaremye M. Hubert |
+| 5 | 27245/2024 | Muhoza Gard |
+| 6 | 27356/2024 | Asheli Tuyishimire |
+| 7 | 27568/2024 | Ingabire Florence |
+
+
 
 ##
 
