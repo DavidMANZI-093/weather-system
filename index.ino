@@ -19,8 +19,8 @@ void loop() {
 
   // --- Read Sensors ---
 
-  int lightReading = analogRead(LDRPIN); // (value from 0-1023)
-  float lightLevel = ((lightReading - 54) / 920) * 100; // (value from 0-100) 
+  float lightReading = analogRead(LDRPIN); // (value from 0-1023)
+  float lightLevel = ((lightReading - 54.0) / 920.0) * 100.0; // (value from 0-100) 
   
   int tempReading = analogRead(TMPPIN); // (value from 0-1023)
   float voltage = tempReading * (5.0 / 1023.0); // Convert to voltage (0-5V)
