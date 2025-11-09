@@ -14,6 +14,9 @@ them to a simulated cloud dashboard.
 | 5 | 27245/2024 | Muhoza Gard |
 | 6 | 27356/2024 | Asheli Tuyishimire |
 | 7 | 27568/2024 | Ingabire Florence |
+| 8 | 25578/2024 | Nzakundwanayo Nelson |
+| 9 | 25183/2024 | Mohamed Yaser |
+| 10 | 21369/2023 | Ousmane Haggar |
 
 
 
